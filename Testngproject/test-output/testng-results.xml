@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-07-16T10:05:26 IST" name="Default suite" finished-at="2020-07-16T10:06:09 IST" duration-ms="43172">
+    <groups>
+    </groups>
+    <test started-at="2020-07-16T10:05:26 IST" name="Default test" finished-at="2020-07-16T10:06:09 IST" duration-ms="43172">
+      <class name="FirstTestng.MyTestng">
+        <test-method is-config="true" signature="driver()[pri:0, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:05:26 IST" name="driver" finished-at="2020-07-16T10:05:33 IST" duration-ms="6695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- driver -->
+        <test-method signature="launchurl()[pri:0, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:05:33 IST" name="launchurl" finished-at="2020-07-16T10:05:47 IST" duration-ms="14098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchurl -->
+        <test-method signature="Tabmenuselection()[pri:1, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:05:47 IST" name="Tabmenuselection" finished-at="2020-07-16T10:05:53 IST" duration-ms="5922" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tabmenuselection -->
+        <test-method signature="searchbox()[pri:2, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:05:53 IST" name="searchbox" finished-at="2020-07-16T10:06:01 IST" duration-ms="8510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchbox -->
+        <test-method signature="selectvalue()[pri:3, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:06:01 IST" name="selectvalue" finished-at="2020-07-16T10:06:07 IST" duration-ms="5961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectvalue -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:FirstTestng.MyTestng@5a955565]" started-at="2020-07-16T10:06:07 IST" name="teardown" finished-at="2020-07-16T10:06:09 IST" duration-ms="1844" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- FirstTestng.MyTestng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
